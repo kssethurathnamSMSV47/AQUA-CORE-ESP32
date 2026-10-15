@@ -1,5 +1,5 @@
 # AQUA-CORE-ESP32
-### Automated Fluid Control, Monitoring & Evaluation System
+### Automated Quantification and Control for Operational Regulation and Evaluation
 
 **Team Name:** Nova Thinkers  
 **Team ID:** `LRC-26_0050`
@@ -182,7 +182,7 @@ Open each folder to view the video files available in the repository.
 
 ### 6. Google Drive Resources
 
-**External project resources:** [Open the AQUA-CORE Google Drive folder]((https://drive.google.com/drive/folders/1EarbnH14BNHFJYKKAfEIHYIXhIpl5q3U?usp=sharing))
+**External project resources:** [Open the AQUA-CORE Google Drive folder](https://drive.google.com/drive/folders/1EarbnH14BNHFJYKKAfEIHYIXhIpl5q3U?usp=sharing)
 
 Use this section for supplementary files hosted on Google Drive, such as large videos, additional evidence, or supporting documents that are not stored directly in this repository.
 
