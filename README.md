@@ -294,7 +294,7 @@ Multiple experimental runs can help identify inconsistent behavior, check repeat
 
 ## 🔐 License and Intellectual Property
 
-**License:** Proprietary — All Rights Reserved, subject to the terms of the repository's [`LICENSE`](LICENSE) file.
+**License:** Proprietary — All Rights Reserved, subject to the terms of the repository's [`LICENSE`](licence) file.
 
 Unless expressly permitted by the copyright holder or applicable law, the project source code, ESP32 firmware, Python scripts, control logic, and original documentation may not be copied, modified, redistributed, published, sublicensed, or commercially used without prior written permission.
 
