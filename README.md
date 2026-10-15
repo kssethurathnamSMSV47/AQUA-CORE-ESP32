@@ -117,7 +117,7 @@ Open the folder to view the actual firmware files and their individual descripti
 
 ### 2. Python Scripts
 
-**Location:** [`Python_Scripts/`](Python_Scripts/)
+**Location:** [`Python_Scripts/`](Codes/Python_Scripts/)
 
 Contains the Python tools used for serial communication, experimental logging, data processing, plotting, and report generation, where included.
 
@@ -153,7 +153,7 @@ The graphs provide a visual record of measured behavior and support comparison b
 
 ### 4. Documentation and Reports
 
-**Location:** [`Documentation/`](Documentation/)
+**Location:** [`Documentation/`](docs/)
 
 Contains the project report and supporting technical documents, where available.
 
@@ -175,14 +175,14 @@ Consult the supplied reports for the specific experimental values and procedures
 
 Contains the project demonstration videos organized into two subfolders.
 
-- **Complete experiment explanation video:** [`complete_experiment_explaination_video/`](experiment_video/complete_experiment_explaination_video/) — intended to present the system, its operation, and the experimental workflow.
-- **Project journey video:** [`journey video/`](experiment_video/journey%20video/) — intended to document the project's development journey and team progress.
+- **Complete experiment explanation video:** [`complete_experiment_explaination_video/`](experiment_video/complete_experiment_explaination_video/) — intended to present the system, its operation, and the experimental workflow (google drive link provided).
+- **Project journey video:** [`journey video/`](experiment_video/journey%20video/) — intended to document the project's development journey and team progress (google drive link provided).
 
 Open each folder to view the video files available in the repository.
 
 ### 6. Google Drive Resources
 
-**External project resources:** [Open the AQUA-CORE Google Drive folder](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+**External project resources:** [Open the AQUA-CORE Google Drive folder]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1EarbnH14BNHFJYKKAfEIHYIXhIpl5q3U?usp=sharing))
 
 Use this section for supplementary files hosted on Google Drive, such as large videos, additional evidence, or supporting documents that are not stored directly in this repository.
 
