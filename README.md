@@ -182,7 +182,7 @@ Open each folder to view the video files available in the repository.
 
 ### 6. Google Drive Resources
 
-**External project resources:** [Open the AQUA-CORE Google Drive folder]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1EarbnH14BNHFJYKKAfEIHYIXhIpl5q3U?usp=sharing))
+**External project resources:** [Open the AQUA-CORE Google Drive folder]((https://drive.google.com/drive/folders/1EarbnH14BNHFJYKKAfEIHYIXhIpl5q3U?usp=sharing))
 
 Use this section for supplementary files hosted on Google Drive, such as large videos, additional evidence, or supporting documents that are not stored directly in this repository.
 
